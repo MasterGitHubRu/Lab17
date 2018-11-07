@@ -111,5 +111,5 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [Ncurses](http://invisible-island.net/ncurses/)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018
 ```
